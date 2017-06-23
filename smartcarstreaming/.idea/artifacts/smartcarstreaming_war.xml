@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="smartcarstreaming:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="smartcarstreaming-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="smartcarstreaming:war exploded" />
+    </root>
+  </artifact>
+</component>
